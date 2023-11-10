@@ -4,6 +4,11 @@ This project aims to create a structure so that any stream can be generated from
 
 The routes created are POST, GET, PATCH, and DELETE. You only need to copy and paste all code inside your project.
 
+To start the database in docker use this command:
+```bash
+$ make db-up
+```
+
 ### For example
 
 ![image](https://github.com/lucas-simao/go-template-api/assets/9120438/11ce90ef-07db-403d-bdfe-8fcfedc301bc)
